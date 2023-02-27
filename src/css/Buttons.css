@@ -1,0 +1,29 @@
+.buttons {
+  margin-inline: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+}
+
+.button {
+  height: 34px;
+  width: 115px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn1 {
+  background: white;
+  color: #2b283a;
+  margin-right: 30px;
+  border: 1px solid #d1d5db;
+  gap: 10px;
+}
+
+.btn2 {
+  background: #5093e2;
+  gap: 10px;
+}

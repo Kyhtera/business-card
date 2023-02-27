@@ -1,0 +1,14 @@
+.body-header{
+    font-size: 1.3rem;
+    margin-top: 10px;
+    text-align: left;
+    margin-inline: 20px;
+    font-weight: bold;
+}
+
+.body-text{
+    font-size: 0.8rem;
+    margin-top: 5px;
+    text-align: left;
+    margin-inline: 20px;
+}

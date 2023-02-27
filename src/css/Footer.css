@@ -1,0 +1,22 @@
+.footer{
+    width: 317px;
+    height: 64px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark .footer{
+    background: #161619;
+}
+
+.light .footer{
+    background: #D5D4D8;
+}
+
+.icon{
+    height: 25px;
+    height: 25px;
+    margin-inline: 15px;
+}
