@@ -1,16 +1,16 @@
 import './css/Card.css';
-import CARDHEADER from './Cardheader';
-import BUTTONS from './Buttons.js';
-import CARDBODY from './Cardbody.js';
-import FOOTER from './Footer.js';
+import Cardheader from './Cardheader';
+import Buttons from './Buttons.js';
+import Cardbody from './Cardbody.js';
+import Footer from './Footer.js';
 
-function card1(){
+function card1() {
     return (
         <div className="card">
-            <CARDHEADER/>
-            <BUTTONS/>
-            <CARDBODY/>
-            <FOOTER/>
+            <Cardheader />
+            <Buttons />
+            <Cardbody />
+            <Footer />
         </div>
     )
 }
